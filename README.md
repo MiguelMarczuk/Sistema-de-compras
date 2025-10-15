@@ -24,3 +24,4 @@ Sistema de compras desenvolvido em **Java** com **Spring Boot**, que permite o c
 - Maven 
 
 ## Estrutura do Projeto
+MVC
